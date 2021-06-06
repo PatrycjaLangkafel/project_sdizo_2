@@ -1,0 +1,160 @@
+Prim Matrix : 0.25 50 156210
+Prim List : 0.25 50 156210
+Prim Matrix : 0.5 50 468270
+Prim List : 0.5 50 312470
+Prim Matrix : 0.75 50 666470
+Prim List : 0.75 50 826190
+Prim Matrix : 0.99 50 1127470
+Prim List : 0.99 50 1116810
+Prim Matrix : 0.25 100 1296530
+Prim List : 0.25 100 1346440
+Prim Matrix : 0.5 100 4122890
+Prim List : 0.5 100 4585810
+Prim Matrix : 0.75 100 10084770
+Prim List : 0.75 100 10031120
+Prim Matrix : 0.99 100 15568810
+Prim List : 0.99 100 15170040
+Prim Matrix : 0.25 150 6917820
+Prim List : 0.25 150 7330930
+Prim Matrix : 0.5 150 20916370
+Prim List : 0.5 150 21207240
+Prim Matrix : 0.75 150 42192380
+Prim List : 0.75 150 42255500
+Prim Matrix : 0.99 150 78182070
+Prim List : 0.99 150 76769430
+Prim Matrix : 0.25 300 117374620
+Prim List : 0.25 300 109873430
+Prim Matrix : 0.5 300 357522490
+Prim List : 0.5 300 354531470
+Prim Matrix : 0.75 300 722984120
+Prim List : 0.75 300 715984400
+Prim Matrix : 0.99 300 1398731820
+Prim List : 0.99 300 1335756630
+Prim Matrix : 0.25 400 296158040
+Prim List : 0.25 400 298689240
+Prim Matrix : 0.5 400 1019889200
+Prim List : 0.5 400 992439630
+Prim Matrix : 0.75 400 4712865400
+Prim List : 0.75 400 4703965820
+Prim Matrix : 0.99 400 10222710630
+Prim List : 0.99 400 10161564500
+Kruskal Matrix : 0.25 50 609030
+Kruskal List : 0.25 50 418280
+Kruskal Matrix : 0.5 50 1537040
+Kruskal List : 0.5 50 1046980
+Kruskal Matrix : 0.75 50 3223920
+Kruskal List : 0.75 50 1731330
+Kruskal Matrix : 0.99 50 3881900
+Kruskal List : 0.99 50 3917070
+Kruskal Matrix : 0.25 100 4302570
+Kruskal List : 0.25 100 5466760
+Kruskal Matrix : 0.5 100 21292660
+Kruskal List : 0.5 100 21380650
+Kruskal Matrix : 0.75 100 45752420
+Kruskal List : 0.75 100 44476980
+Kruskal Matrix : 0.99 100 71989050
+Kruskal List : 0.99 100 66121420
+Kruskal Matrix : 0.25 150 30430430
+Kruskal List : 0.25 150 29748350
+Kruskal Matrix : 0.5 150 93149770
+Kruskal List : 0.5 150 97226180
+Kruskal Matrix : 0.75 150 201437340
+Kruskal List : 0.75 150 196775720
+Kruskal Matrix : 0.99 150 350221410
+Kruskal List : 0.99 150 340160880
+Kruskal Matrix : 0.25 300 412997730
+Kruskal List : 0.25 300 391074240
+Kruskal Matrix : 0.5 300 1634270950
+Kruskal List : 0.5 300 1577162840
+Kruskal Matrix : 0.75 300 1734270950
+Kruskal List : 0.75 300 1777162840
+Kruskal Matrix : 0.99 300 1834270950
+Kruskal List : 0.99 300 1887162840
+Kruskal Matrix : 0.25 400 975984210
+Kruskal List : 0.25 400 967951110
+Kruskal Matrix : 0.5 400 11116955830
+Kruskal List : 0.5 400 11046515620
+Kruskal Matrix : 0.75 400 24416944210
+Kruskal List : 0.75 400 24047782920
+Kruskal Matrix : 0.99 400 26116958830
+Kruskal List : 0.99 400 26046515620
+Dijkstra Matrix : 0.25 50 129260
+Dijkstra List : 0.25 50 150040
+Dijkstra Matrix : 0.5 50 179520
+Dijkstra List : 0.5 50 179500
+Dijkstra Matrix : 0.75 50 259320
+Dijkstra List : 0.75 50 239360
+Dijkstra Matrix : 0.99 50 309120
+Dijkstra List : 0.99 50 309960
+Dijkstra Matrix : 0.25 100 289240
+Dijkstra List : 0.25 100 468120
+Dijkstra Matrix : 0.5 100 668050
+Dijkstra List : 0.5 100 651820
+Dijkstra Matrix : 0.75 100 987590
+Dijkstra List : 0.75 100 753300
+Dijkstra Matrix : 0.99 100 991770
+Dijkstra List : 0.99 100 1336680
+Dijkstra Matrix : 0.25 150 1233300
+Dijkstra List : 0.25 150 409270
+Dijkstra Matrix : 0.5 150 1523900
+Dijkstra List : 0.5 150 1333800
+Dijkstra Matrix : 0.75 150 1694290
+Dijkstra List : 0.75 150 1850450
+Dijkstra Matrix : 0.99 150 2448970
+Dijkstra List : 0.99 150 2656060
+Dijkstra Matrix : 0.25 300 2942950
+Dijkstra List : 0.25 300 2781070
+Dijkstra Matrix : 0.5 300 9895210
+Dijkstra List : 0.5 300 9830920
+Dijkstra Matrix : 0.75 300 9629740
+Dijkstra List : 0.75 300 10263460
+Dijkstra Matrix : 0.99 300 12621850
+Dijkstra List : 0.99 300 13427890
+Dijkstra Matrix : 0.25 400 6164620
+Dijkstra List : 0.25 400 5875860
+Dijkstra Matrix : 0.5 400 14914400
+Dijkstra List : 0.5 400 15082270
+Dijkstra Matrix : 0.75 400 22306530
+Dijkstra List : 0.75 400 22311510
+Dijkstra Matrix : 0.99 400 45703450
+Dijkstra List : 0.99 400 46812040
+Bellman Ford Matrix : 0.25 50 312490
+Bellman Ford List : 0.25 50 0
+Bellman Ford Matrix : 0.5 50 312440
+Bellman Ford List : 0.5 50 0
+Bellman Ford Matrix : 0.75 50 221250
+Bellman Ford List : 0.75 50 156230
+Bellman Ford Matrix : 0.99 50 625530
+Bellman Ford List : 0.99 50 155880
+Bellman Ford Matrix : 0.25 100 1913490
+Bellman Ford List : 0.25 100 155890
+Bellman Ford Matrix : 0.5 100 2696330
+Bellman Ford List : 0.5 100 409210
+Bellman Ford Matrix : 0.75 100 3562000
+Bellman Ford List : 0.75 100 1255550
+Bellman Ford Matrix : 0.99 100 3605140
+Bellman Ford List : 0.99 100 1895760
+Bellman Ford Matrix : 0.25 150 6365490
+Bellman Ford List : 0.25 150 1722040
+Bellman Ford Matrix : 0.5 150 10257760
+Bellman Ford List : 0.5 150 3244120
+Bellman Ford Matrix : 0.75 150 11671600
+Bellman Ford List : 0.75 150 4742180
+Bellman Ford Matrix : 0.99 150 12196190
+Bellman Ford List : 0.99 150 7621820
+Bellman Ford Matrix : 0.25 300 52046060
+Bellman Ford List : 0.25 300 17096300
+Bellman Ford Matrix : 0.5 300 77606600
+Bellman Ford List : 0.5 300 61331520
+Bellman Ford Matrix : 0.75 300 92369450
+Bellman Ford List : 0.75 300 106079730
+Bellman Ford Matrix : 0.99 300 97744810
+Bellman Ford List : 0.99 300 147360200
+Bellman Ford Matrix : 0.25 400 125313750
+Bellman Ford List : 0.25 400 68882540
+Bellman Ford Matrix : 0.5 400 182107760
+Bellman Ford List : 0.5 400 174406990
+Bellman Ford Matrix : 0.75 400 218188090
+Bellman Ford List : 0.75 400 278676320
+Bellman Ford Matrix : 0.99 400 232441200
+Bellman Ford List : 0.99 400 375866330

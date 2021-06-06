@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1623018726 source:c:\users\patry\onedrive\pulpit\project_2_sdizo\project_2_sdizo\main.cpp
+	<iostream>
+	<string>
+	"Test.h"
+	"AdjacencyList.h"
+	"AdjacencyMatrix.h"
+
+1622995691 source:c:\users\patry\onedrive\pulpit\project_2_sdizo\project_2_sdizo\heap.cpp
+	"Heap.h"
+	<iostream>
+
+1622650547 c:\users\patry\onedrive\pulpit\project_2_sdizo\project_2_sdizo\heap.h
+
+1622992740 source:c:\users\patry\onedrive\pulpit\project_2_sdizo\project_2_sdizo\nodeset.cpp
+	<iostream>
+	"NodeSet.h"
+
+1622645828 c:\users\patry\onedrive\pulpit\project_2_sdizo\project_2_sdizo\nodeset.h
+	"Heap.h"
+
+1622992740 source:c:\users\patry\onedrive\pulpit\project_2_sdizo\project_2_sdizo\qheap.cpp
+	"QHeap.h"
+	"Heap.h"
+
+1622992740 c:\users\patry\onedrive\pulpit\project_2_sdizo\project_2_sdizo\qheap.h
+
+1623021525 source:c:\users\patry\onedrive\pulpit\project_2_sdizo\project_2_sdizo\adjacencylist.cpp
+	"AdjacencyList.h"
+	"Heap.h"
+	"QHeap.h"
+	"NodeSet.h"
+	<iostream>
+	<vector>
+	<iomanip>
+	<string>
+	<fstream>
+
+1622661423 source:c:\users\patry\onedrive\pulpit\project_2_sdizo\project_2_sdizo\graph.cpp
+	"Graph.h"
+	<iostream>
+
+1623021525 source:c:\users\patry\onedrive\pulpit\project_2_sdizo\project_2_sdizo\adjacencymatrix.cpp
+	"AdjacencyMatrix.h"
+	"Heap.h"
+	"QHeap.h"
+	"NodeSet.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<random>
+
+1623021525 c:\users\patry\onedrive\pulpit\project_2_sdizo\project_2_sdizo\adjacencymatrix.h
+	<string>
+
+1622645828 source:c:\users\patry\onedrive\pulpit\project_2_sdizo\project_2_sdizo\time.cpp
+	"Time.h"
+
+1622645828 c:\users\patry\onedrive\pulpit\project_2_sdizo\project_2_sdizo\time.h
+	<chrono>
+	<iostream>
+
+1622661423 c:\users\patry\onedrive\pulpit\project_2_sdizo\project_2_sdizo\graph.h
+
+1622940148 source:c:\users\patry\onedrive\pulpit\project_2_sdizo\project_2_sdizo\test.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"Test.h"
+	"AdjacencyList.h"
+	"AdjacencyMatrix.h"
+	"Time.h"
+
+1622916564 c:\users\patry\onedrive\pulpit\project_2_sdizo\project_2_sdizo\test.h
+
+1623021205 c:\users\patry\onedrive\pulpit\project_2_sdizo\project_2_sdizo\adjacencylist.h
+	<string>
+
